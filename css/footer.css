@@ -1,0 +1,486 @@
+
+@font-face {
+    font-family: 'Popping-light';
+    src: url('..//fonts/Poppins/Poppins-Light.ttf');
+  }
+
+  @font-face {
+    font-family: 'Popping-semibold';
+    src: url('../fonts/Poppins/Poppins-SemiBold.ttf');
+  }
+
+.alt{
+    margin-top: 1%;
+    text-align: center;
+    font-family: 'Popping-semibold';
+}
+
+@media (max-width: 1399.98px) 
+{
+    .footer{
+        margin-top: 5%;
+        margin-bottom: 5%;
+        font-family: 'Popping-light';
+    }
+    #logom{
+      
+        opacity: 80%;
+    }
+    #logom img {
+        margin-left: 0%;
+        margin-top: 66%;
+        width: 100%;
+        object-fit: cover;
+    }
+    .footer p {
+        margin-bottom: 0;
+        opacity: 80%;
+        font-size: 11px;
+        font-family: 'Popping-semibold';
+    }
+    .footer .hakkinda_baslik {
+        border-bottom: 1px solid;
+        width: 85%;
+        margin-bottom: 0;
+        margin-right: 0;
+        margin-left: 0;
+        font-family: 'Popping-semibold';
+        text-align: start;
+        font-size: 22px;
+    }
+    .footer .hakkinda_baslik1 {
+        border-bottom: 1px solid;
+        width: 95%;
+        margin-bottom: 0;
+        margin-top: 0;
+        margin-left: 0;
+        font-family: 'Popping-semibold';
+        font-size: 22px;
+    }
+    .footer .hakkinda_baslik2 {
+        border-bottom: 1px solid;
+        width: 82%;
+        margin-bottom: 0;
+        margin-top: 0;
+        margin-left: 0;
+        font-family: 'Popping-semibold';
+        font-size: 22px;
+    }
+    .footer .hakkinda_baslik3 {
+        border-bottom: 1px solid;
+        width: 112%;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-top: 0;
+        font-family: 'Popping-semibold';
+        font-size: 22px;
+    }
+  .alt {
+    text-align: center;
+    font-family: 'Popping-semibold';
+}
+#ilk_konu{
+margin-left: 1%;
+margin-top: 10%;
+}
+#ikinci_konu{
+    margin-left: 2%;
+    margin-top: 10%;
+    text-align: start;
+}
+#ucuncu_konu{
+    margin-left:4%;
+    margin-top: 10%;
+
+}
+#dorduncu_konu{
+    text-align: start;
+    margin-left: 2%;
+    margin-top: 10%;
+}
+
+    }   
+@media (max-width: 1199.98px) 
+{
+    .footer{
+        margin-top: 5%;
+        margin-bottom: 5%;
+        font-family: 'Popping-light';
+    }
+    #logom{
+      
+        opacity: 80%;
+    }
+    #logom img {
+        margin-left: 0%;
+        margin-top: 80%;
+        width: 100%;
+        object-fit: cover;
+    }
+    .footer p {
+        margin-bottom: 0;
+        opacity: 80%;
+        font-size: 10px;
+        font-family: 'Popping-semibold';
+    }
+     
+      .footer .hakkinda_baslik {
+        border-bottom: 1px solid;
+        width: 110%;
+        margin-bottom: 0;
+        margin-right:0;
+        margin-left: 0;
+        font-family: 'Popping-semibold';
+        font-size: 20px;
+        text-align: start;
+    }
+    .footer .hakkinda_baslik1 {
+        border-bottom: 1px solid;
+        width: 123%;
+        margin-bottom: 0;
+        margin-top: 0;
+        margin-left: 0;
+        font-family: 'Popping-semibold';
+        font-size: 20px;
+    }
+    .footer .hakkinda_baslik2 {
+        border-bottom: 1px solid;
+        width: 102%;
+        margin-bottom: 0;
+        margin-top: 0;
+        margin-left: 0;
+        font-family: 'Popping-semibold';
+        font-size: 20px;
+    }
+    .footer .hakkinda_baslik3 {
+        border-bottom: 1px solid;
+        width: 125%;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-top: 0;
+        font-family: 'Popping-semibold';
+        font-size: 20px;
+    }
+  .alt {
+    text-align: center;
+    font-family: 'Popping-semibold';
+}
+#ilk_konu{
+margin-left: 1%;
+margin-top: 10%;
+}
+#ikinci_konu{
+    margin-left: 2%;
+    margin-top: 10%;
+    text-align: start;
+}
+#ucuncu_konu{
+    margin-left:4%;
+    margin-top: 10%;
+
+}
+#dorduncu_konu{
+    text-align: start;
+    margin-left: 2%;
+    margin-top: 10%;
+}
+
+    }
+@media (max-width: 991.98px) 
+{
+    #logom{
+        text-align: center;
+        opacity: 80%;
+      }
+      #logom img {
+        margin-left: 0%;
+        margin-top: 0;
+        width: 25%;
+        object-fit: cover;
+    }
+  .footer{
+      margin-top: 10%;
+      text-align: start;
+      font-family: 'Popping-light';
+  }
+.footer p {
+    margin-bottom: 0;
+    opacity: 80%;
+    font-size: 15px;
+    font-family: 'Popping-semibold';
+}
+  #ilk_konu{
+    width: 50%;
+    margin-left: 0;
+}
+#ikinci_konu{
+    width: 50%;
+    text-align: end;
+    margin-left: 0;
+}
+#ucuncu_konu{
+  margin-left: 0; 
+}
+#dorduncu_konu{
+    text-align: end;
+    margin-left: 0;
+}   
+.footer .hakkinda_baslik {
+    border-bottom: 1px solid;
+    width: 38%;
+    margin-bottom: 5%;
+    margin-right: 63%;
+    font-family: 'Popping-semibold';
+    text-align: start;
+}
+    .footer .hakkinda_baslik1 {
+        border-bottom: 1px solid;
+        width: 42%;
+        margin-bottom: 5%;
+        margin-top: 0;
+        margin-left: 57%;
+        font-family: 'Popping-semibold';
+    }
+    .footer .hakkinda_baslik2 {
+        border-bottom: 1px solid;
+        width: 35%;
+        margin-bottom: 5%;
+        margin-top: 22%;
+        margin-right: auto;
+        font-family: 'Popping-semibold';
+    }
+    .footer .hakkinda_baslik3 {
+        border-bottom: 1px solid;
+        width: 47%;
+        margin-bottom: 5%;
+        margin-top: 22%;
+        margin-left: 52%;
+        font-family: 'Popping-semibold';
+    }
+  .alt {
+    text-align: center;
+    font-family: 'Popping-semibold';
+}
+  
+    }
+@media (max-width: 767.98px) 
+{
+    .alt {
+        text-align: center;
+        font-family: 'Popping-semibold';
+    }
+
+    .footer p {
+        margin-bottom: 0;
+        opacity: 80%;
+        font-size: 14px;
+        font-family: 'Popping-semibold';
+    }    #logom{
+        text-align: center;
+        opacity: 80%;
+      }
+      #logom img {
+        margin-left: 0%;
+        margin-top: 0;
+        width: 25%;
+        object-fit: cover;
+    }
+  .footer{
+  height: 100%;
+    margin-top: 10%;
+      text-align: start;
+      font-family: 'Popping-light';
+  }
+      
+  #ilk_konu{
+      width: 50%;
+      margin-left: 0;
+  }
+  #ikinci_konu{
+      width: 50%;
+      text-align: end;
+      margin-left: 0;
+  }
+  #ucuncu_konu{
+    margin-left: 0; 
+  }
+  #dorduncu_konu{
+      text-align: end;
+      margin-left: 0;
+  }
+    .footer .hakkinda_baslik {
+        border-bottom: 1px solid;
+        width: 49%;
+        margin-bottom: 5%;
+        margin-right: 51%;
+        font-family: 'Popping-semibold';
+        text-align: start;
+    }
+    .footer .hakkinda_baslik1 {
+        border-bottom: 1px solid;
+        width: 51%;
+        margin-bottom: 5%;
+        margin-top: 0;
+        margin-left: 48%;
+        font-family: 'Popping-semibold';
+    }
+  .footer .hakkinda_baslik2 {
+    border-bottom: 1px solid;
+    width: 43%;
+    margin-bottom: 5%;
+    margin-top: 22%;
+    margin-right: auto;
+    font-family: 'Popping-semibold';
+}   
+.footer .hakkinda_baslik3 {
+    border-bottom: 1px solid;
+    width: 58%;
+    margin-bottom: 5%;
+    margin-top: 22%;
+    margin-left: 41%;
+    font-family: 'Popping-semibold';
+}
+
+    }
+@media (max-width: 575.98px) 
+{
+    .alt {
+        text-align: center;
+        font-family: 'Popping-semibold';
+    }
+        
+    .footer p {
+        margin-bottom: 0;
+        opacity: 80%;
+        font-size: 10px;
+        font-family: 'Popping-semibold';
+    }
+    #logom{
+      text-align: center;
+      opacity: 80%;
+    }
+    #logom img {
+        margin-left: 0%;
+        margin-top: 0;
+        width: 25%;
+        object-fit: cover;
+    }
+.footer{
+    margin-top: 10%;
+    text-align: start;
+    height: 100%;
+    font-family: 'Popping-light';
+}
+    
+#ilk_konu{
+    width: 50%;
+    margin-left: 0;
+}
+#ikinci_konu{
+    width: 50%;
+    text-align: end;
+    margin-left: 0;
+}
+#ucuncu_konu{
+    margin-left: 0;
+}
+#dorduncu_konu{
+    margin-left: 0;
+    text-align: end;
+}
+  .footer .hakkinda_baslik {
+    border-bottom: 1px solid;
+    width: 70%;
+    margin-bottom: 5%;
+    margin-right: 45%;
+	font-size:13px;
+    font-family: 'Popping-semibold';
+    text-align: start;
+}
+.footer .hakkinda_baslik1 {
+    border-bottom: 1px solid;
+    width: 83%;
+	font-size:13px;
+    margin-bottom: 5%;
+    margin-top: 0;
+    margin-left: 20%;
+    font-family: 'Popping-semibold';
+}
+.footer .hakkinda_baslik2 {
+    border-bottom: 1px solid;
+    width: 60%;
+    margin-bottom: 5%;
+    margin-top: 22%;
+    margin-right: auto;
+	font-size:13px;
+    font-family: 'Popping-semibold';
+}
+.footer .hakkinda_baslik3 {
+    border-bottom: 1px solid;
+    width: 90%;
+    margin-left: 9%;
+    margin-bottom: 5%;
+    font-size: 13px;
+    margin-top: 22%;
+    font-family: 'Popping-semibold';
+}
+}
+@media (min-width:1400px)
+{
+    .footer {
+        margin-top: 5%;
+        font-family: 'Popping-light';
+        height: 80%;
+    }
+    #logom{
+        opacity: 80%;
+    }
+    #logom img {
+        margin-top: 23%;
+        object-fit: cover;
+        width: 100%;
+    }
+    .alt {
+        text-align: center;
+        font-family: 'Popping-semibold';
+    }
+    
+    .footer p {
+        margin-bottom: 2%;
+        opacity: 80%;
+        font-size: 13px;
+        font-family: 'Popping-semibold';
+    }
+    .footer .hakkinda_baslik {
+        border-bottom: 1px solid;
+        width: 81%;
+        margin-bottom: 5%;
+        margin-top: 22%;
+        margin-right: auto;
+        font-family: 'Popping-semibold';
+    }
+    .footer .hakkinda_baslik1 {
+        border-bottom: 1px solid;
+        width: 92%;
+        margin-bottom: 5%;
+        margin-top: 22%;
+        margin-right: auto;
+        font-family: 'Popping-semibold';
+    }
+    .footer .hakkinda_baslik2 {
+        border-bottom: 1px solid;
+        width: 76%;
+        margin-bottom: 5%;
+        margin-top: 22%;
+        margin-right: auto;
+        font-family: 'Popping-semibold';
+    }
+    .footer .hakkinda_baslik3 {
+        border-bottom: 1px solid;
+        margin-bottom: 5%;
+        margin-top: 22%;
+        width: 106%;
+        margin-right: auto;
+        font-family: 'Popping-semibold';
+    }
+    }

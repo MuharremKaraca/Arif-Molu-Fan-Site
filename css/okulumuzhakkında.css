@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Poppins-semibold';
+    src: url('../fonts/Poppins/Poppins-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('../fonts/Montserrat/static/Montserrat-Medium.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('../fonts/Montserrat/static/Montserrat-Medium.ttf');
+}
+.table a{
+    color: red;
+}
+.table a:hover{
+    border-bottom: 1px solid red;
+}
+.mevcutmetin{
+    font-family: 'Poppins-semibold';
+    margin-left: 3%;
+}
+.mevcutbaslik{
+    font-family: 'Montserrat-Medium';
+}
+td{
+    width: 15%;
+}
+th{
+    width: 2%;
+}

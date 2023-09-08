@@ -1,0 +1,38 @@
+ .ana_icerik_slider {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .ana_icerik_slider  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 450px;
+    height: 400px;
+  }
+
+ .ana_icerik_slider .swiper-slide img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .swiper-pagination-progressbar .swiper-pagination-progressbar-fill{
+    background-color: red;
+  }
+
+@media (max-width:575.98px){
+    .ana_icerik_slider {
+        width: 100%;
+        height: 100%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+      }
+      .ana_icerik_slider .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 50%;
+        object-fit: cover;
+      }
+    
+}

@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Poppins-semibold';
+    src: url('../fonts/Poppins/Poppins-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-black';
+    src: url('../fonts/Montserrat/static/Montserrat-Black.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-Alternates-Regular';
+    src: url('../fonts/Montserrat_Alternates/MontserratAlternates-Regular.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../fonts/Montserrat/static/Montserrat-Regular.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('../fonts/Poppins/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('../fonts/Poppins/Poppins-Medium.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('../fonts/Montserrat/static/Montserrat-Medium.ttf');
+}
+#ogretmenbaslik{
+    font-family: 'Poppins-Medium';
+    font-size: 30px;
+}
+.card-title {
+    font-size: 17px;
+    font-family: 'Poppins-Medium';
+}
+.card-text{
+    font-family: 'Poppins-Regular';
+    font-size: 13px;
+    opacity: 80%;
+}
+.card img{
+    object-fit: cover;
+}

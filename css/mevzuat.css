@@ -1,0 +1,38 @@
+
+@font-face {
+    font-family: 'Poppins-semibold';
+    src: url('../fonts/Poppins/Poppins-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-black';
+    src: url('../fonts/Montserrat/static/Montserrat-Black.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-Alternates-Regular';
+    src: url('../fonts/Montserrat_Alternates/MontserratAlternates-Regular.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../fonts/Montserrat/static/Montserrat-Regular.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-medium';
+    src: url('../fonts/Montserrat/static/Montserrat-Medium.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('../fonts/Poppins/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('../fonts/Poppins/Poppins-Medium.ttf');
+}
+
+#link_main a:hover{
+    color: black;
+    border-bottom: 1px solid black;
+}
+#link_main{
+    font-size: 14px;
+    font-family: 'Poppins-Regular';
+}
